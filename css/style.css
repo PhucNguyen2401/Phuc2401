@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    background-color: antiquewhite;
+}
+.khung{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px 0;
+    border: 0;
+
+}
+.ben-phai{
+    float: right;
+}
+.tim-kiem{
+    width: 250px;
+    padding: 5px 15px;
+    border: 1px solid gainsboro;
+    line-height: 15px;
+    position: absolute;
+    right: 40px;
+}
+.nut-tim-kiem{
+    background-color: white;
+    border: 1px solid gainsboro;
+    line-height: 15px;
+    padding: 5px;
+    margin-left: 0px;
+    position: absolute;
+    right: 20px;
+}
+nav{
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    z-index: 1;
+    position: relative;
+}
+nav a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0 20px;
+}
+.banner{
+    width: 100%;
+    margin-top: -48px;
+}
+footer{
+    background-color: gainsboro;
+    min-height: 300px;
+}
+footer .khung div{
+
+    margin-top: 20px;
+    
+}
+.link-tieu-de{
+    display: block;
+    color: orangered;
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: 1px solid gray;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+.form-group
+{
+    margin: 10px 0px;
+}
+
+.form{
+    margin-left: 200px;
+}
+
+.content{
+   
+}
+
+.form-control{
+    width: 50%;
+    height: 40px;
+}
+
+.iframe{
+    align-items: center;
+    text-align: center;
+}
+.Cosovatchat
+{
+    height: 80%;
+    width: 100%;
+    
+}
+h2
+{
+    color: red;
+}
+.qitopsubmenu a {
+    font-size: 13px;
+    padding: 0px;
+    font-weight: 500;
+}
